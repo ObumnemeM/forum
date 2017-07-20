@@ -1,0 +1,29 @@
+div .main {
+	width: 50%;
+	margin: 50px auto;
+	background-color: #23cdab;
+}
+
+h2{
+	color: grey;
+	font-size: 40px;
+}
+
+div .form-group {
+	width: 70%;
+	margin: 20px auto;
+}
+
+input {
+	width: 50%;
+}
+
+label{
+	display: inline-block;
+	color: black;
+	width: 20%;
+	margin-left: 5%;
+	margin-bottom: 2%;
+}
+
+
